@@ -1,5 +1,5 @@
 # Fake Banknotes Classification 💵
-This project utilises support vector machine to classify fake bank notes.
+This project utilises a support vector machine to classify fake bank notes.
 
 ## Program Execution
 ### Run it locally
